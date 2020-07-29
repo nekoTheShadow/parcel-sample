@@ -3,4 +3,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{}],"epB2":[function(require,module,exports) {
 "use strict";var e=t(require("./word.js"));function t(e){return e&&e.__esModule?e:{default:e}}document.getElementById("title").innerHTML=e.default.title,document.getElementById("description").innerHTML=e.default.description;
 },{"./word.js":"JC7i"}]},{},["epB2"], null)
-//# sourceMappingURL=/main.a0e33e9b.js.map
+//# sourceMappingURL=https://nekotheshadow.github.io/parcel-sample/main.a0e33e9b.js.map
